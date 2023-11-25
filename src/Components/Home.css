@@ -1,0 +1,15 @@
+*::-webkit-scrollbar{
+    display: none;
+}
+.Home{
+    height: 91%;
+    width: 97%;
+    position: absolute;
+    overflow: scroll;
+}
+@media screen and (min-width: 901px) {
+    .Home{
+        width: 92%;
+    }
+}
+
